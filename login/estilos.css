@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #0000;
+    background-image: url("conexiones-globales_53876-89039.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -26,6 +26,7 @@ main{
     max-width: 800px;
     margin: auto;
     position: relative;
+
 }
 
 .caja__trasera{
@@ -35,7 +36,8 @@ main{
     justify-content: center;
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
-    background-color: #352665;
+    opacity: 90%;
+    background-color: #16274c;
 
 }
 
@@ -129,7 +131,7 @@ main{
     margin-top: 40px;
     border: none;
     font-size: 14px;
-    background: #352665;
+    background: #16274c;
     font-weight: 600;
     cursor: pointer;
     color: #fff;
